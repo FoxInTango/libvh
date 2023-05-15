@@ -1,2 +1,2 @@
 # libvh
-Virtual Host on Linux.
+Virtual Host for C++ Applications on Linux.
